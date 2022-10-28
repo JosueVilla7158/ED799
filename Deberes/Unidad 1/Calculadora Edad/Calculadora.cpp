@@ -1,8 +1,8 @@
 /*
 UFA-ESPE
-Cesar Loor - Josue Villavicencio
-27/10/2022
-27/10/2022
+Autores: Cesar Loor - Josue Villavicencio
+Fecha de creacion: 27/10/2022
+Decha de modificacion: 27/10/2022
 Calculadora de edad
 3er nivel 7999
 */
