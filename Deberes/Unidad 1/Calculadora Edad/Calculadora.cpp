@@ -38,6 +38,6 @@ int main (void)
         age=age-1;
     cout << "Su edad es : " << age << endl;
     cout << endl;
-    system ("pause");
+   
     return EXIT_SUCCESS;
 }
